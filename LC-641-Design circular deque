@@ -1,5 +1,5 @@
 class MyCircularDeque {
-    int deque[];
+     int deque[];
     int front;
     int rear;
     int size;
