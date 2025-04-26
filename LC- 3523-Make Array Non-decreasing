@@ -1,0 +1,17 @@
+class Solution {
+    public int maximumPossibleSize(int[] nums) {
+        int n=nums.length;
+        int size=1;
+        int currmax=nums[0];
+        for(int i=1;i<n;i++){
+            if(currmax<=nums[i]){
+                size++;
+                currmax=nums[i];
+            }
+            else{
+                currmax=Math.max(currmax,nums[i]);
+            }
+        }
+        return size;
+    }
+}
