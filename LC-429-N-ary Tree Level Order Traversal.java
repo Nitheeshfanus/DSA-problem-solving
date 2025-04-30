@@ -1,23 +1,26 @@
 class Solution {
-    public List<List<Integer>> levelOrder(TreeNode root) {
+    public List<List<Integer>> levelOrder(Node root) {
         List<List<Integer>> result=new ArrayList<>();
-        //When you use new ArrayList<>(), it creates a new ArrayList object.
-        levelorder(root,0,result);
+
+        if(root==null) return result;
+
+        Queue<Node> queue=new LinkedList<>();
+        queue.offer(root);
+
+        while(!queue.isEmpty()){
+            int size=queue.size();
+            List<Integer> level=new ArrayList<>();
+
+            for(int i=0;i<size;i++){
+                Node node=queue.poll();
+                level.add(node.val);
+
+                for(Node child:node.children){
+                    queue.offer(child);
+                }
+            }
+            result.add(level);
+        }
         return result;
     }
-    private void levelorder(TreeNode node,int level,List<List<Integer>> res){
-        if(node==null) return;
-
-
-        if(level==res.size()){   // NOTE
-            res.add(new ArrayList<>());
-        }
-        
-
-        res.get(level).add(node.val);
-
-        levelorder(node.left,level+1,res);
-        levelorder(node.right,level+1,res);
-
-    }
-}
+} 
