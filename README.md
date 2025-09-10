@@ -142,9 +142,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
