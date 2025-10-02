@@ -15,22 +15,24 @@ class Solution {
         }
         ListNode dummy = new ListNode(-1);
         dummy.next=head;
-        ListNode prev=dummy;
+        ListNode Leftprev=dummy;
         int i=1;
         while(i<left){
-            prev=prev.next;
+            Leftprev=Leftprev.next;
             i++;
         }
         i=0;
-        ListNode curr=prev.next;
-        ListNode frw=curr.next;
-        while(i<right-left){
-            curr.next=frw.next;
-            frw.next=prev.next;
-            prev.next=frw;
-            frw=curr.next;
+        ListNode curr=Leftprev.next;
+        ListNode prev=null;
+        while(i<right-left+1){
+             ListNode tempnext=curr.next;
+             curr.next=prev;
+             prev=curr;
+             curr=tempnext;
             i++;
         }
+        Leftprev.next.next=curr;
+        Leftprev.next=prev;
         return dummy.next;
     }
 }
