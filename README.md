@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0463-island-perimeter) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0322-coin-change) |
@@ -166,8 +168,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
