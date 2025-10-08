@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0854-making-a-large-island) |
+| [0898-transpose-matrix](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0898-transpose-matrix) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0854-making-a-large-island) |
+| [0898-transpose-matrix](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0898-transpose-matrix) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Number Theory
 |  |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0238-product-of-array-except-self) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
