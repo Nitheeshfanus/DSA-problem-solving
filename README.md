@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0134-gas-station) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Heap (Priority Queue)
