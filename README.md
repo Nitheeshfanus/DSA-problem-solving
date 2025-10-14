@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0264-ugly-number-ii) |
+| [0292-nim-game](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -247,4 +248,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0503-next-greater-element-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
