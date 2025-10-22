@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0542-01-matrix) |
 | [1086-divisor-game](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1086-divisor-game) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1362-airplane-seat-assignment-probability) |
 ## Array
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1086-divisor-game](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1086-divisor-game) |
 | [1103-moving-stones-until-consecutive](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1103-moving-stones-until-consecutive) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1362-airplane-seat-assignment-probability) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1086-divisor-game) |
 | [1103-moving-stones-until-consecutive](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1103-moving-stones-until-consecutive) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1362-airplane-seat-assignment-probability) |
 ## Game Theory
 |  |
 | ------- |
@@ -283,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1362-airplane-seat-assignment-probability](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1362-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
