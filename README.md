@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0029-divide-two-integers) |
 | [0168-excel-sheet-column-title](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0172-factorial-trailing-zeroes) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0342-power-of-four) |
