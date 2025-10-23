@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0680-valid-palindrome-ii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3462-vowels-game-in-a-string) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2481-strictly-palindromic-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2481-strictly-palindromic-number) |
 | [3462-vowels-game-in-a-string](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3462-vowels-game-in-a-string) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0898-transpose-matrix) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -297,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |
