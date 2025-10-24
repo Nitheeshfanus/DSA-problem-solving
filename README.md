@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Divide and Conquer
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0828-chalkboard-xor-game](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0828-chalkboard-xor-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1362-airplane-seat-assignment-probability](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1362-airplane-seat-assignment-probability) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2481-strictly-palindromic-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2481-strictly-palindromic-number) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3462-vowels-game-in-a-string](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
