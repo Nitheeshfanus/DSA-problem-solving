@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0264-ugly-number-ii) |
 | [0409-longest-palindrome](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0409-longest-palindrome) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Math
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2481-strictly-palindromic-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2481-strictly-palindromic-number) |
 | [3462-vowels-game-in-a-string](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3462-vowels-game-in-a-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -314,8 +317,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [1362-airplane-seat-assignment-probability](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1362-airplane-seat-assignment-probability) |
+## Counting
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2174-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->
