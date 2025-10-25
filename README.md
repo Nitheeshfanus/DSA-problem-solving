@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2705-minimum-impossible-or](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2705-minimum-impossible-or) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [3998-minimum-operations-to-equalize-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2705-minimum-impossible-or](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2705-minimum-impossible-or) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3998-minimum-operations-to-equalize-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2705-minimum-impossible-or](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2705-minimum-impossible-or) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3462-vowels-game-in-a-string) |
+| [3998-minimum-operations-to-equalize-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Game Theory
 |  |
 | ------- |
