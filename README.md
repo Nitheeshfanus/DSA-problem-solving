@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-chalkboard-xor-game](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0828-chalkboard-xor-game) |
 | [0854-making-a-large-island](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0898-transpose-matrix) |
+| [0960-minimize-malware-spread](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0960-minimize-malware-spread) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0264-ugly-number-ii) |
 | [0409-longest-palindrome](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0409-longest-palindrome) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0960-minimize-malware-spread](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0960-minimize-malware-spread) |
 | [2169-simple-bank-system](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0854-making-a-large-island) |
+| [0960-minimize-malware-spread](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0960-minimize-malware-spread) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0854-making-a-large-island) |
+| [0960-minimize-malware-spread](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0960-minimize-malware-spread) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0854-making-a-large-island) |
+| [0960-minimize-malware-spread](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0960-minimize-malware-spread) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
@@ -358,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2169-simple-bank-system) |
+## Graph
+|  |
+| ------- |
+| [0960-minimize-malware-spread](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0960-minimize-malware-spread) |
 <!---LeetCode Topics End-->
