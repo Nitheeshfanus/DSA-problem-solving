@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2481-strictly-palindromic-number) |
 | [2850-construct-the-longest-new-string](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2850-construct-the-longest-new-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3462-vowels-game-in-a-string) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Bit Manipulation
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2705-minimum-impossible-or](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2705-minimum-impossible-or) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Depth-First Search
 |  |
