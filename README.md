@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0898-transpose-matrix) |
+| [0928-surface-area-of-3d-shapes](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0928-surface-area-of-3d-shapes) |
 | [0960-minimize-malware-spread](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0960-minimize-malware-spread) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0828-chalkboard-xor-game](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0828-chalkboard-xor-game) |
 | [0830-largest-triangle-area](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0830-largest-triangle-area) |
+| [0928-surface-area-of-3d-shapes](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0928-surface-area-of-3d-shapes) |
 | [1086-divisor-game](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1086-divisor-game) |
 | [1103-moving-stones-until-consecutive](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1103-moving-stones-until-consecutive) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1362-airplane-seat-assignment-probability) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0898-transpose-matrix) |
+| [0928-surface-area-of-3d-shapes](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0928-surface-area-of-3d-shapes) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Number Theory
 |  |
@@ -384,4 +387,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0149-max-points-on-a-line) |
 | [0830-largest-triangle-area](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0830-largest-triangle-area) |
+| [0928-surface-area-of-3d-shapes](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0928-surface-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
