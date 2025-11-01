@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2705-minimum-impossible-or](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2705-minimum-impossible-or) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2787-movement-of-robots](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2787-movement-of-robots) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3998-minimum-operations-to-equalize-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-minimize-malware-spread](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0960-minimize-malware-spread) |
 | [2169-simple-bank-system](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Math
 |  |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0092-reverse-linked-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0203-remove-linked-list-elements) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Database
 |  |
 | ------- |
