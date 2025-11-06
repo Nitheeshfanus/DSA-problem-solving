@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3863-power-grid-maintenance) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3998-minimum-operations-to-equalize-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3863-power-grid-maintenance) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Math
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0854-making-a-large-island) |
 | [0960-minimize-malware-spread](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0960-minimize-malware-spread) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3863-power-grid-maintenance](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0854-making-a-large-island) |
 | [0960-minimize-malware-spread](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0960-minimize-malware-spread) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3863-power-grid-maintenance](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0854-making-a-large-island) |
 | [0960-minimize-malware-spread](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0960-minimize-malware-spread) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3863-power-grid-maintenance](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
 | ------- |
@@ -239,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0264-ugly-number-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3863-power-grid-maintenance) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Quickselect
 |  |
@@ -409,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0960-minimize-malware-spread](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0960-minimize-malware-spread) |
+| [3863-power-grid-maintenance](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3863-power-grid-maintenance) |
 ## Geometry
 |  |
 | ------- |
@@ -420,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
