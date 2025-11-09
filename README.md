@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2288-count-operations-to-obtain-zero) |
 | [2481-strictly-palindromic-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2481-strictly-palindromic-number) |
 | [2850-construct-the-longest-new-string](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2850-construct-the-longest-new-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3462-vowels-game-in-a-string) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2169-simple-bank-system) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Monotonic Stack
