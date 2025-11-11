@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0409-longest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0459-repeated-substring-pattern) |
+| [0474-ones-and-zeroes](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0474-ones-and-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0680-valid-palindrome-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0322-coin-change) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0474-ones-and-zeroes](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0542-01-matrix) |
 | [1086-divisor-game](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1086-divisor-game) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1362-airplane-seat-assignment-probability) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0474-ones-and-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0695-max-area-of-island) |
