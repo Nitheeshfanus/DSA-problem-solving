@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0898-transpose-matrix) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0928-surface-area-of-3d-shapes) |
 | [0960-minimize-malware-spread](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0960-minimize-malware-spread) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
