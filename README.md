@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0168-excel-sheet-column-title) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0097-interleaving-string) |
 | [0198-house-robber](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0213-house-robber-ii) |
