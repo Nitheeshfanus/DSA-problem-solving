@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0322-coin-change) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0474-ones-and-zeroes](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0542-01-matrix) |
 | [1086-divisor-game](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1086-divisor-game) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0695-max-area-of-island) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2174-next-greater-numerically-balanced-number) |
