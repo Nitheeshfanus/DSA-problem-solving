@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0149-max-points-on-a-line) |
 | [0198-house-robber](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0200-number-of-islands) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0342-power-of-four) |
