@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0213-house-robber-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 ## Hash Table
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0127-word-ladder) |
 | [0149-max-points-on-a-line](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0264-ugly-number-ii) |
 | [0409-longest-palindrome](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0409-longest-palindrome) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2787-movement-of-robots](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2787-movement-of-robots) |
@@ -486,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0169-majority-element) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Design
