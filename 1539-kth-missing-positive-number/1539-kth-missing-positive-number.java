@@ -1,13 +1,22 @@
 class Solution {
     public int findKthPositive(int[] arr, int k) {
-         int l = 0, r = arr.length, m;
-        while (l < r) {
-            m = (l + r) / 2;
-            if (arr[m] - 1 - m < k)
-                l = m + 1;
-            else
-                r = m;
+          int low = 0, high = arr.length-1;
+
+        // Binary search loop
+        while (low <= high) {
+            int mid = (low + high) / 2;
+
+            // Number of missing elements before index mid
+            int missing = arr[mid] - (mid + 1);
+
+            if (missing < k) {
+                low = mid + 1;  // Move right
+            } else {
+                high = mid - 1; // Move left
+            }
         }
-        return l + k;
+
+        // Final result after binary search
+        return k + high + 1;
     }
 }
