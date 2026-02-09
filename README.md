@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0115-distinct-subsequences) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0171-excel-sheet-column-number) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0070-climbing-stairs) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Bitmask
 |  |
