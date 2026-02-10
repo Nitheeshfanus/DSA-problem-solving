@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0130-surrounded-regions) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0168-excel-sheet-column-title) |
