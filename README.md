@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0115-distinct-subsequences) |
