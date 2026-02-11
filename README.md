@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0242-valid-anagram) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0409-longest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0459-repeated-substring-pattern) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0127-word-ladder) |
 | [0149-max-points-on-a-line](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0264-ugly-number-ii) |
 | [0409-longest-palindrome](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0409-longest-palindrome) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2787-movement-of-robots](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2787-movement-of-robots) |
