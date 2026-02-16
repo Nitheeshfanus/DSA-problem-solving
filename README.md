@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0115-distinct-subsequences) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0168-excel-sheet-column-title) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0231-power-of-two) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0067-add-binary) |
 | [0898-transpose-matrix](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0898-transpose-matrix) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
