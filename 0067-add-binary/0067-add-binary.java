@@ -1,23 +1,29 @@
 class Solution {
-    public String addBinary(String a, String b) {
-
-        StringBuilder ans = new StringBuilder();
-
+public String addBinary(String a, String b) {
+        StringBuilder sb = new StringBuilder();
         int i = a.length() - 1;
         int j = b.length() - 1;
         int carry = 0;
 
-        while (i >= 0 || j >= 0 || carry == 1) {
-
-            int sum = carry;
-
-            if (i >= 0) sum += a.charAt(i--) - '0';
-            if (j >= 0) sum += b.charAt(j--) - '0';
-
-            ans.append(sum % 2);
-            carry = sum / 2;
+        while (i >= 0 || j >= 0 || carry != 0) {
+            int sum = carry; // Start with the carry from the last step
+            
+            if (i >= 0) {
+                sum += a.charAt(i) - '0'; // Convert char to int
+                i--;
+            }
+            if (j >= 0) {
+                sum += b.charAt(j) - '0';
+                j--;
+            }
+            
+            // Append the digit (0 or 1) to the result
+            sb.append(sum % 2); 
+            // Calculate new carry (1 if sum is 2 or 3, else 0)
+            carry = sum / 2; 
         }
 
-        return ans.reverse().toString();
+        // Since we added from right to left, we must reverse the result
+        return sb.reverse().toString();
     }
 }
