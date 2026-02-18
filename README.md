@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0680-valid-palindrome-ii) |
+| [0845-longest-mountain-in-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0977-squares-of-a-sorted-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2481-strictly-palindromic-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2481-strictly-palindromic-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0542-01-matrix) |
+| [0845-longest-mountain-in-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0845-longest-mountain-in-array) |
 | [1086-divisor-game](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1086-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0733-flood-fill) |
 | [0828-chalkboard-xor-game](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0828-chalkboard-xor-game) |
 | [0830-largest-triangle-area](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0830-largest-triangle-area) |
+| [0845-longest-mountain-in-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0845-longest-mountain-in-array) |
 | [0854-making-a-large-island](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0898-transpose-matrix) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0928-surface-area-of-3d-shapes) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0845-longest-mountain-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2174-next-greater-numerically-balanced-number) |
