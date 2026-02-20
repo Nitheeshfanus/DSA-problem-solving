@@ -5,23 +5,17 @@ class Solution {
 
             boolean negative= (dividend < 0) ^ (divisor < 0);
 
-            long a=Math.abs((long)dividend);
-            long b=Math.abs((long)divisor);
-
-            int result=0;
-
-            while(a>=b){
-
-                long temp=b;
-                int multiple=1;
-
-                while(a>=(temp<<1)){
-                    temp<<=1;
-                    multiple<<=1;
-                }
-                a-=temp;
-                result+=multiple;
+            long n=Math.abs((long)dividend);
+            long d=Math.abs((long)divisor);
+            int ans =0;
+            
+             for (int i = 31; i >= 0; i--) {
+            if ((n >> i) >= d) {
+                ans += (1 << i);
+                n -= (d << i);
             }
-            return negative? -result:result;
+        }
+
+            return negative? -ans:ans;
     }
 }
