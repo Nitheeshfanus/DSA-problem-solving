@@ -1,40 +1,39 @@
+import java.util.*;
+
 class Solution {
     public String minRemoveToMakeValid(String s) {
+        Stack<Integer> stack = new Stack<>();
+        Set<Integer> remove = new HashSet<>();
 
-        StringBuilder firstPass = new StringBuilder();
-        int balance = 0;
-
-         for (char ch : s.toCharArray()) {
+        // First pass
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
 
             if (ch == '(') {
-                balance++;
-                firstPass.append(ch);
+                stack.push(i);
             } 
             else if (ch == ')') {
-                if (balance > 0) {
-                    balance--;
-                    firstPass.append(ch);
+                if (!stack.isEmpty()) {
+                    stack.pop();  // valid pair
+                } else {
+                    remove.add(i);  // invalid ')'
                 }
-                // else skip invalid ')'
-            } 
-            else {
-                firstPass.append(ch); // letters always allowed
             }
         }
 
-        // 🥈 Pass 2: Remove extra '(' from right
+        // Remaining '(' are invalid
+        while (!stack.isEmpty()) {
+            remove.add(stack.pop());
+        }
+
+        // Build final string
         StringBuilder result = new StringBuilder();
-        
-        for (int i = firstPass.length() - 1; i >= 0; i--) {
-            char ch = firstPass.charAt(i);
-
-            if (ch == '(' && balance > 0) {
-                balance--; // remove this extra '('
-            } else {
-                result.append(ch);
+        for (int i = 0; i < s.length(); i++) {
+            if (!remove.contains(i)) {
+                result.append(s.charAt(i));
             }
         }
 
-        return result.reverse().toString();
+        return result.toString();
     }
 }
