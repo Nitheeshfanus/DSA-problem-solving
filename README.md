@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0221-maximal-square) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0292-nim-game) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0204-count-primes) |
 | [0845-longest-mountain-in-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0845-longest-mountain-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
