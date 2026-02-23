@@ -1,24 +1,23 @@
 class Solution {
     public double myPow(double x, int n) {
-        long N = n;  // convert to long to handle Integer.MIN_VALUE
+        long N = n;
         
         if (N < 0) {
             x = 1 / x;
             N = -N;
         }
         
-        return fastPow(x, N);
-    }
-    
-    private double fastPow(double x, long n) {
-        if (n == 0) return 1;
+        double result = 1;
         
-        double half = fastPow(x, n / 2);
-        
-        if (n % 2 == 0) {
-            return half * half;
-        } else {
-            return half * half * x;
+        while (N > 0) {
+            if ((N & 1) == 1) {   // if odd
+                result *= x;
+            }
+            
+            x *= x;
+            N >>= 1;  // divide by 2
         }
+        
+        return result;
     }
 }
