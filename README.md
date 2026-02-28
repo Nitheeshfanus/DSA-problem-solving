@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0115-distinct-subsequences) |
+| [0152-maximum-product-subarray](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0221-maximal-square) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0149-max-points-on-a-line) |
+| [0152-maximum-product-subarray](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0200-number-of-islands) |
