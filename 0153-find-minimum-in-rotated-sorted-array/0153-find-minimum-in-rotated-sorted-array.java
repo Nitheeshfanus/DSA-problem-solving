@@ -18,6 +18,6 @@ class Solution {
                 r--;
             }
         }
-        return nums[l];
+        return nums[r];
     }
 }
