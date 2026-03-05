@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1539-kth-missing-positive-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0409-longest-palindrome) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0960-minimize-malware-spread](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0960-minimize-malware-spread) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2787-movement-of-robots](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2787-movement-of-robots) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Heap (Priority Queue)
