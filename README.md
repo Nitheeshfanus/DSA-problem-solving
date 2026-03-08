@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0171-excel-sheet-column-number) |
+| [0224-basic-calculator](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0242-valid-anagram) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0409-longest-palindrome) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0292-nim-game) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0203-remove-linked-list-elements) |
+| [0224-basic-calculator](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0342-power-of-four) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0084-largest-rectangle-in-histogram) |
+| [0224-basic-calculator](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0224-basic-calculator) |
 | [0503-next-greater-element-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0503-next-greater-element-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
