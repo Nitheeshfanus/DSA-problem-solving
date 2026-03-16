@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0977-squares-of-a-sorted-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2481-strictly-palindromic-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2787-movement-of-robots](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2787-movement-of-robots) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Heap (Priority Queue)
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0680-valid-palindrome-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2850-construct-the-longest-new-string](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2850-construct-the-longest-new-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
