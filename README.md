@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0928-surface-area-of-3d-shapes](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0928-surface-area-of-3d-shapes) |
 | [0960-minimize-malware-spread](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0960-minimize-malware-spread) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0977-squares-of-a-sorted-array) |
+| [1029-two-city-scheduling](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1029-two-city-scheduling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1539-kth-missing-positive-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1539-kth-missing-positive-number) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0977-squares-of-a-sorted-array) |
+| [1029-two-city-scheduling](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1029-two-city-scheduling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0680-valid-palindrome-ii) |
+| [1029-two-city-scheduling](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1029-two-city-scheduling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2410-maximum-matching-of-players-with-trainers) |
