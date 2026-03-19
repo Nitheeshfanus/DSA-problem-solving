@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0409-longest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0459-repeated-substring-pattern) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0409-longest-palindrome) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0455-assign-cookies) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0224-basic-calculator](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0224-basic-calculator) |
+| [0402-remove-k-digits](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0503-next-greater-element-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0503-next-greater-element-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Brainteaser
