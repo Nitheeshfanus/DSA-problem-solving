@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0334-increasing-triplet-subsequence) |
 | [0406-queue-reconstruction-by-height](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0455-assign-cookies) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0409-longest-palindrome) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
