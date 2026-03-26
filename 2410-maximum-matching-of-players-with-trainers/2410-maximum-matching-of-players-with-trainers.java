@@ -8,7 +8,7 @@ class Solution {
         int n2=trainers.length;
         int count=0;
         while(i<n1 && j<n2){
-            if(i<n1 && players[i]<=trainers[j]){
+            if(players[i]<=trainers[j]){
                 i++;
                 j++;
                 count++;
