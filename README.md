@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3462-vowels-game-in-a-string](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
