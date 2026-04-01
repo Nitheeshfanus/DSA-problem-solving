@@ -6,14 +6,14 @@ class Solution {
         int score= 0;
         Arrays.sort(tokens);
         int maxScore= 0;
-        if(n== 1){
-            if(power < tokens[0]){
-                return 0;
-            }
-            else{
-                return 1;
-            }
-        }
+        // if(n== 1){
+        //     if(power < tokens[0]){
+        //         return 0;
+        //     }
+        //     else{
+        //         return 1;
+        //     }
+        // }
         while(i <= j){
             if(tokens[i] <= power){
                 power -= tokens[i];
