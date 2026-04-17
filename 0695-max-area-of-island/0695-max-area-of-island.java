@@ -19,7 +19,7 @@ class Solution {
         }
        return contain?maxarea:0;
     }
-    public static int[][] dirs=new int[][]{{1,0},{0,1},{-1,0},{0,-1}};
+public static int[][] dirs=new int[][]{{1,0},{0,1},{-1,0},{0,-1}};
 
     public static void dfs(int[][] grid,int i,int j,int r,int c,int[] counts,
     int count)
