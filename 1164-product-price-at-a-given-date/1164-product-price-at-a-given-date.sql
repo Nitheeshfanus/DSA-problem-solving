@@ -1,4 +1,3 @@
-# Write your MySQL query statement below
 with cte as(
     select *, rank() over(partition by product_id order by change_date 
     desc) as r
