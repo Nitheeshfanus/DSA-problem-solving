@@ -1,13 +1,11 @@
-SELECT 
-    request_at AS Day
-    ,ROUND(SUM(CASE WHEN status='cancelled_by_driver' OR status='cancelled_by_client' THEN 1 ELSE 0 END) / COUNT(request_at),2) 
-    AS "Cancellation Rate" /*use quote as in output we need to show like this*/
-FROM  Trips t
-JOIN Users c
-    ON t.client_id=c.users_id /*include clients who are banned*/
-    AND c.banned='No'
-JOIN Users u
-    ON t.driver_id=u.users_id/*include drivers who are banned*/
-    AND u.banned='No'
-WHERE request_at BETWEEN '2013-10-01' AND '2013-10-03'
-GROUP BY request_at
+# Write your MySQL query statement below
+select t.request_at as "Day", round(sum(case when t.status like 'cancelled%' then 1 else 0 end)/ count(*), 2) as "Cancellation Rate"
+from Trips t
+left join Users u1
+on t.client_id = u1.users_id
+left join Users u2
+on t.driver_id = u2.users_id
+where u1.banned = 'No'
+and u2.banned = 'No'
+and t.request_at between "2013-10-01" and "2013-10-03"
+group by t.request_at;
