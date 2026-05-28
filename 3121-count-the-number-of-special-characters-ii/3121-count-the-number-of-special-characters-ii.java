@@ -20,7 +20,7 @@ class Solution {
             }
 
             // uppercase
-            else if(c >= 'A' && c <= 'Z') {
+            else{
 
                 // first uppercase
                 if(uc[c - 'A'] == -1) {
