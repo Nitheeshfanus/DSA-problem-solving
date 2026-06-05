@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0125-valid-palindrome) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0221-maximal-square) |
@@ -656,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0079-word-search) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
