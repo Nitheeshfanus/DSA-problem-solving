@@ -13,8 +13,9 @@ class Solution {
                         if(solve(board)){
                                 return true;
                         }
-                            board[i][j]= '.';
+                 
                         }
+                        board[i][j]= '.';
                     }
                     return false;
                 }
