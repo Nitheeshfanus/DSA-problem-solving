@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0053-maximum-subarray) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0079-word-search) |
