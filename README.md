@@ -580,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## String Matching
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Prefix Sum
