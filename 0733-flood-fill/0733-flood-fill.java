@@ -9,9 +9,9 @@ class Solution {
         dfs(image,sr,sc,r,c,source,color);
         return image;
     }
-    private static int[][] dirs=new int[][]{{1,0},{0,1},{-1,0},{0,-1}};
+private static int[][] dirs=new int[][]{{1,0},{0,1},{-1,0},{0,-1}};
 
-    private void dfs(int[][] image,int i,int j,int r,int c,int source,int color){
+private void dfs(int[][] image,int i,int j,int r,int c,int source,int color){
 
         if(i<0 || j<0 || i>=r || j>=c || image[i][j]!=source){
             return;
