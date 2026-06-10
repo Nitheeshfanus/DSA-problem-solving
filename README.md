@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0463-island-perimeter](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0733-flood-fill) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0733-flood-fill) |
@@ -769,5 +771,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0547-number-of-provinces) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
