@@ -1,37 +1,37 @@
 class Solution {
     public int maxAreaOfIsland(int[][] grid) {
-        int r=grid.length;
-        int c=grid[0].length;
-        int[] counts=new int[r*c+2];
-        int count=2;
-        int maxarea=Integer.MIN_VALUE;
-        boolean contain=false;
+        int rows = grid.length, cols = grid[0].length;
+        boolean[][] visited = new boolean[rows][cols];
+        int maxIsland = 0;
 
-        for(int i=0;i<r;i++){
-            for(int j=0;j<c;j++){
-                if(grid[i][j]==1){
-                    contain=true;
-                    dfs(grid,i,j,r,c,counts,count);
-                    maxarea=Math.max(maxarea,counts[count]);
-                    count++;
+        for (int r = 0; r < rows; r++) {
+            for (int c = 0; c < cols; c++) {
+                if (grid[r][c] == 1 && !visited[r][c]) 
+                {
+                    maxIsland = Math.max(maxIsland, dfs(grid, visited, r, c));
                 }
             }
         }
-       return contain?maxarea:0;
+
+        return maxIsland;        
     }
-public static int[][] dirs=new int[][]{{1,0},{0,1},{-1,0},{0,-1}};
 
-    public static void dfs(int[][] grid,int i,int j,int r,int c,int[] counts,
-    int count)
-    {
-        if(i<0 || j<0 || i>=r || j>=c || grid[i][j]!=1){
-            return;
-        }
-        grid[i][j]=count;
-        counts[count]++;
+    private int dfs(int[][] grid, boolean[][] visited, int r, int c) {
 
-        for(int[] dir:dirs){
-            dfs(grid,dir[0]+i,dir[1]+j,r,c,counts,count);
+        int rows = grid.length, 
+        cols = grid[0].length;
+
+        if (r < 0 || r >= rows || c < 0 || c >= cols || visited[r][c] || grid[r][c] == 0) 
+        {
+            return 0;
         }
+
+        visited[r][c] = true;
+
+        return 1 + 
+        dfs(grid, visited, r + 1, c) + 
+        dfs(grid, visited, r - 1, c) + 
+        dfs(grid, visited, r, c + 1) + 
+        dfs(grid, visited, r, c - 1);
     }
 }
