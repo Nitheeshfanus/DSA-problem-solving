@@ -1,35 +1,24 @@
 class Solution {
-    public int[] twoSum(int[] nums, int target) {
-        int n= nums.length;
+    public int[] twoSum(int[] numbers, int target) {
 
-        int l= 1;
-        int r= n-1;
-        int right= -1;
-        for(int i=0; i<n; i++){
+        int start = 0;
+        int end = numbers.length - 1;
 
-        right= bsearch(nums, nums[i], i+1, r, target);
+        while(start < end){
 
-          if( right != -1){
-            return new int[]{i+1, right+1};
-          }
-        }
-        return new int[]{-1,-1};
-    }
+            int sum = numbers[start] + numbers[end];
 
-    int bsearch(int[] nums, int a, int l, int r, int t){
-            while(l <= r){
-                int m= l + (r-l)/2;
-                int c= nums[m] + a;
-                if(c == t){
-                    return m;
-                }
-                else if(c > t){
-                    r= m-1;
-                }
-                else{
-                    l= m+1;
-                }
+            if(sum == target){
+                return new int[]{start + 1, end + 1};
             }
-            return -1;
-        }   
+            else if(sum < target){
+                start++;
+            }
+            else{
+                end--;
+            }
+        }
+
+        return new int[]{-1, -1};
+    }
 }
