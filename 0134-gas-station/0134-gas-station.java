@@ -13,7 +13,7 @@ class Solution {
         int totaldiff=0 ; 
         int start=0;
         for(int i= 0 ; i< n ; i++){
-                  totaldiff+=gas[i]-cost[i];
+                  totaldiff += gas[i]-cost[i];
                   if(totaldiff<0){
                     start=i+1;
                     totaldiff=0;
