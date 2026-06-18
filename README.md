@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2481-strictly-palindromic-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2481-strictly-palindromic-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2784-check-if-array-is-good](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2784-check-if-array-is-good) |
 | [2787-movement-of-robots](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2787-movement-of-robots) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2784-check-if-array-is-good](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2784-check-if-array-is-good) |
 | [2787-movement-of-robots](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2787-movement-of-robots) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Heap (Priority Queue)
 |  |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1539-kth-missing-positive-number) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
 |  |
 | ------- |
