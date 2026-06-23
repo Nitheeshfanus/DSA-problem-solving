@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0564-find-the-closest-palindrome](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0564-find-the-closest-palindrome) |
+| [0664-strange-printer](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0664-strange-printer) |
 | [0680-valid-palindrome-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0680-valid-palindrome-ii) |
 | [1143-longest-common-subsequence](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
+| [0664-strange-printer](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0664-strange-printer) |
 | [0845-longest-mountain-in-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0845-longest-mountain-in-array) |
 | [1086-divisor-game](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1086-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1143-longest-common-subsequence) |
