@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1029-two-city-scheduling](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1029-two-city-scheduling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1331-rank-transform-of-an-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1539-kth-missing-positive-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1539-kth-missing-positive-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0904-fruit-into-baskets) |
 | [0960-minimize-malware-spread](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0960-minimize-malware-spread) |
+| [1331-rank-transform-of-an-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1029-two-city-scheduling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1331-rank-transform-of-an-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1710-maximum-units-on-a-truck](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1710-maximum-units-on-a-truck) |
