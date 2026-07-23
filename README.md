@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0898-transpose-matrix) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0928-surface-area-of-3d-shapes) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2625-increment-submatrices-by-one) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1732-find-the-highest-altitude) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2625-increment-submatrices-by-one) |
 | [2787-movement-of-robots](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2787-movement-of-robots) |
