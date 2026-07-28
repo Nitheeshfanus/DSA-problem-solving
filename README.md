@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0845-longest-mountain-in-array) |
 | [0948-bag-of-tokens](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0986-interval-list-intersections) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0948-bag-of-tokens) |
 | [0960-minimize-malware-spread](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0960-minimize-malware-spread) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0986-interval-list-intersections) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1029-two-city-scheduling](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1029-two-city-scheduling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -841,4 +843,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1833-maximum-ice-cream-bars) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
