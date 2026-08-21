@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0986-interval-list-intersections) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1029-two-city-scheduling](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1029-two-city-scheduling) |
+| [1094-car-pooling](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1094-car-pooling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1331-rank-transform-of-an-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1029-two-city-scheduling) |
+| [1094-car-pooling](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1094-car-pooling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1331-rank-transform-of-an-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0264-ugly-number-ii) |
 | [0502-ipo](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0502-ipo) |
+| [1094-car-pooling](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1094-car-pooling) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3863-power-grid-maintenance) |
@@ -687,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0238-product-of-array-except-self) |
+| [1094-car-pooling](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1094-car-pooling) |
 | [1732-find-the-highest-altitude](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1732-find-the-highest-altitude) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -699,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0067-add-binary) |
 | [0898-transpose-matrix](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0898-transpose-matrix) |
+| [1094-car-pooling](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1094-car-pooling) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
