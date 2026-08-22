@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2784-check-if-array-is-good) |
 | [2787-movement-of-robots](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2787-movement-of-robots) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3355-zero-array-transformation-i](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3355-zero-array-transformation-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2625-increment-submatrices-by-one) |
 | [2787-movement-of-robots](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2787-movement-of-robots) |
+| [3355-zero-array-transformation-i](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3355-zero-array-transformation-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Simulation
 |  |
