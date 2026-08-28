@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0334-increasing-triplet-subsequence) |
 | [0406-queue-reconstruction-by-height](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0406-queue-reconstruction-by-height) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0303-range-sum-query-immutable) |
 | [1094-car-pooling](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1109-corporate-flight-bookings) |
 | [1732-find-the-highest-altitude](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1732-find-the-highest-altitude) |
@@ -801,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0303-range-sum-query-immutable) |
 | [2169-simple-bank-system](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2169-simple-bank-system) |
 ## Graph
 |  |
