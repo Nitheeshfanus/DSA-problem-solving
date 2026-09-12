@@ -875,4 +875,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0986-interval-list-intersections) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
