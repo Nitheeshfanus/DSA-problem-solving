@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0564-find-the-closest-palindrome) |
 | [0828-chalkboard-xor-game](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0828-chalkboard-xor-game) |
 | [0830-largest-triangle-area](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0836-rectangle-overlap) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0928-surface-area-of-3d-shapes) |
 | [1086-divisor-game](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1086-divisor-game) |
 | [1103-moving-stones-until-consecutive](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1103-moving-stones-until-consecutive) |
@@ -818,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0149-max-points-on-a-line) |
 | [0830-largest-triangle-area](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0836-rectangle-overlap) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0928-surface-area-of-3d-shapes) |
 ## Sliding Window
 |  |
