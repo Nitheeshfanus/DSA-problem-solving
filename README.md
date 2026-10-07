@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0221-maximal-square) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0367-valid-perfect-square) |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0303-range-sum-query-immutable) |
 | [1094-car-pooling](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1094-car-pooling) |
@@ -836,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
