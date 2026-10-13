@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2705-minimum-impossible-or](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2705-minimum-impossible-or) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2784-check-if-array-is-good) |
 | [2787-movement-of-robots](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2787-movement-of-robots) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -804,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Probability and Statistics
