@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0067-add-binary) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0066-plus-one) |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0067-add-binary) |
 | [0898-transpose-matrix](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0898-transpose-matrix) |
 | [1094-car-pooling](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/1094-car-pooling) |
