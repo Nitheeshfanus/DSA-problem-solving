@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0474-ones-and-zeroes) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0367-valid-perfect-square) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0564-find-the-closest-palindrome](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0564-find-the-closest-palindrome) |
 | [0828-chalkboard-xor-game](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0828-chalkboard-xor-game) |
 | [0830-largest-triangle-area](https://github.com/Nitheeshfanus/DSA-problem-solving/tree/master/0830-largest-triangle-area) |
